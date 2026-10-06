@@ -1,0 +1,8 @@
+.footer{
+    height: 100px;
+    width: 100%;
+    justify-content: center;
+    color: chocolate;
+    display: flex;
+    background-color: aqua;
+}

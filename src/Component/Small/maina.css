@@ -1,0 +1,9 @@
+h2{
+    height: 100px;
+    width: 100%;
+    background-color: rgb(52, 52, 105);
+    color: azure;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
