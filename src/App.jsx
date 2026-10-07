@@ -3,6 +3,7 @@
 // import Footer from "./Component/Footer/Footer"
 // import A from "./Component/Small/A"
 // import FetchData from "./Component/Button/FetchData"
+import Home from "./Component/Conditional/Home"
 import Nav from "./Component/Navbar/Nav";
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
 import Home from "./Component/Navbar/Home";
